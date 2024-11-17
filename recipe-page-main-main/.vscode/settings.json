@@ -1,0 +1,65 @@
+{
+"editor.tokenColorCustomizations": {
+    "textMateRules": [
+        {
+            "scope": [
+                "comment"
+            ],
+            "settings": {
+                "foreground": "#076a05"
+            }
+        },
+        {
+            "scope": [
+                "string",
+                "variable"
+            ],
+            "settings": {
+                "foreground": "#00ff15"
+            }
+        },
+        {
+            "scope": [
+                "entity.name.tag"
+            ],
+            "settings": {
+                "foreground": "#375df6"
+            }
+        },
+        {
+            "scope": [
+                ""
+            ],
+            "settings": {
+                "foreground": "#ffffff" 
+            }
+        },
+        {
+            "scope": [
+                "support.type.property-name"
+            ],
+            "settings": {
+                "foreground": "#ffffff" 
+            }
+        },
+        {
+            "scope": [
+                "keyword.operator.assignment"
+
+            ],
+            "settings": {
+                "foreground": "#f2ff00" 
+            }
+        },        {
+            "scope": [
+                "punctuation.definition.tag",
+
+            ],
+            "settings": {
+                "foreground": "#4a4fe7" 
+            }
+        }
+    ]
+}
+}
+                
